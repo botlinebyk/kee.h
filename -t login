@@ -1,0 +1,2 @@
+tmux a -t login
+python3 login.py
